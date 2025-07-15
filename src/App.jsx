@@ -2,7 +2,7 @@ import { useEffect, useRef } from "react";
 import CustomarDetails from "./components/CustomarDetails";
 import InvoiceItems from "./components/InvoiceItems";
 import SenderDetails from "./components/SenderDetails";
-import { useFormContext } from "./Context/FormContext";
+import { useFormContext } from "./context/FormContext";
 import html2pdf from 'html2pdf.js';
 
 function App(){
