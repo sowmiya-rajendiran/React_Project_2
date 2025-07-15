@@ -1,4 +1,4 @@
-import { useFormContext } from "../Context/FormContext";
+import { useFormContext } from "../context/FormContext";
 
 function CustomarDetails(){
 
