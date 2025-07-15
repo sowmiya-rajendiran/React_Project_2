@@ -46,4 +46,4 @@
     - Uses html2pdf.js to generate and download the invoice
 
 ## Deployed Link
-- 
+- https://react2p.netlify.app/
