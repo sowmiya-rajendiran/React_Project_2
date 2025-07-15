@@ -17,7 +17,7 @@ export const FormProvider = ({ children }) => {
 
     });
 
-    // data updated function
+    // data updated functions
     const updateFormData = (name, value) => {
         setFormData((prev) => ({
         ...prev,
